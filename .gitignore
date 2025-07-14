@@ -1,0 +1,14 @@
+# Sistema (Mac)
+.DS_Store
+
+# Imágenes privadas
+images/
+img/
+
+# Archivos temporales o backup
+*.log
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
